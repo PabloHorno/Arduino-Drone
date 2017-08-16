@@ -1,4 +1,10 @@
 #pragma once
+/*
+Sensor de Presion
+
+@author Pablo Horno
+@version 1.0 27/01/2017
+*/
 enum class tipoLectura { UNICA, MULTIPLE, MEDIA };
 
 class sensorDistancia

@@ -1,5 +1,10 @@
 #pragma once
+/*
+Sensor de Presion
 
+@author Pablo Horno
+@version 1.0 27/01/2017
+*/
 #include "SFE_BMP180.h"
 #include "Wire\src\Wire.h"
 enum class tipoAltura

@@ -1,7 +1,8 @@
 /*
- Name:		drone.ino
- Created:	1/27/2017 3:41:21 PM
- Author:	Pablo
+Arduino Drone
+
+@author Pablo Horno
+@version 1.0 27/01/2017 
 */
 #include "sensorDisntacia.h"
 #include "sensorPresion.h"
